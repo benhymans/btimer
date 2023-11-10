@@ -26,4 +26,5 @@ from btimer import Timer
     # Code to be timed
     t2.minutes # Available units: milliseconds, seconds, minutes, and hours
 
-    print(t1) # Returns a string of the elapsed time in seconds with timer name```
+    print(t1) # Returns a string of the elapsed time in seconds with timer name
+```
